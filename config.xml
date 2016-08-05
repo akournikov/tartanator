@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmls 				= "http://www.w3.org/ns/widgets"
+			  xmlns:gap		= "http://phonegap.com/ns/1.0"
+			  id					= "kurnikovtartanator"
+			  version 			= "1.0.0">
+
+<name>Tartan Hunt</name>
+<description>A companion application for the Scottish Celebration: win a trip for 2 to Edinburg from Loch Air</description>
+<author href=""
+			  email="kurnikov.alexander@gmail.com">Alexander Kurnikov
+</author>
+<icon src="images/touch-icon-iphone4.png" height="114" width="114" />
+<icon src="images/touch-icon-ipad.png" height="57" width="57" />
+<icon src="images/icon-48.png" height="48" width="48" />
+<icon src="images/icon-36.png" height="36" width="36" />
+</widget>
